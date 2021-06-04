@@ -4,7 +4,6 @@ import 'screens/welcome_page.dart';
 import 'profile/profile_1.dart';
 
 void main() {
-  print('HWLL');
   runApp(MyApp());
 }
 
